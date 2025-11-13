@@ -1,0 +1,4 @@
+tensorflow 
+opencv-python
+pyttsx3 
+numpy==1.26.4
