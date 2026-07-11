@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Large Neural Network Weights / Model Checkpoints
+*.keras
+*.h5
+*.hdf5
+*.tflite
+
+# Operating System Files
+.DS_Store
+Thumbs.db
